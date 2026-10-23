@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+biquote
+pandas
+numpy
+ta
+plotly
+requests
